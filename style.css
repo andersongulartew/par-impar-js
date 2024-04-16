@@ -1,0 +1,11 @@
+
+h1{
+    font-style: italic ;
+    font-family: 'Pacifico', cursive;
+}
+button { 
+    font-size: 12pt; padding: 15px;
+    color: rgb(249, 11, 11);
+     background-color: aquamarine
+    
+};
